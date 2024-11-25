@@ -1,6 +1,6 @@
 # resume tailoring
 
-This prompt yields the best results when used with GPT-4 Turbo or GPT-4o as a system or initial prompt. It is recommended to use this with GPT-4o for cost-effectiveness.
+This prompt yields the best results when used with GPT-4o as a system or initial prompt. Claude 3.5 Sonnet (New 2024 version) is sub-optimal, but mostly works but may require more work on your end in terms of how to best apply the edits.
 
 ## prompt 1: model/platform has access to file uploads and internet
 
